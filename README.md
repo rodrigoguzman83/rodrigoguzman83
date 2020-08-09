@@ -1,16 +1,16 @@
 ### Hey 👋🏽, I'm Rodrigo
 
 <br/>
-<a href="mailto:rodrigoluisguzman@gmail.com">
+<a href="mailto:rodrigoluisguzman@gmail.com" target="_blank">
   <img align="left" alt="Rodrigo Guzman mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/">
+<a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/" target="_blank">
   <img align="left" alt="Rodrigo Guzman LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=+5491140365765">
+<a href="https://api.whatsapp.com/send?phone=+5491140365765" target="_blank">
   <img align="left" alt="Rodrigo Guzman whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="skype:rodrivagoneta30?call">
+<a href="skype:rodrivagoneta30?call" target="_blank">
   <img align="left" alt="Rodrigo Guzman skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
 <br />
