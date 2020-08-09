@@ -7,7 +7,7 @@
 <br />
 
 Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
- <img align="right" style="width:10px;" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" />
+ <img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEqVi8xrtdfvBOiu-r1RjXX2d93JuVCIaU3Q&usqp=CAU" />
  
  **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on ...
