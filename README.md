@@ -4,6 +4,12 @@
 <a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/">
   <img align="left" alt="Rodrigo Guzman LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://api.whatsapp.com/send?phone=+5491140365765">
+  <img align="left" alt="Rodrigo Guzman whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="skype:rodrivagoneta30?call">
+  <img align="left" alt="Rodrigo Guzman skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+</a>
 <br />
 
 Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
@@ -14,7 +20,7 @@ Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
 - 🌱 I’m currently learning **REACT,VUE, ANGULAR, NODE, MONGO DB**.
 - 📫 How to reach me: rodrigoluisguzman@gmail.com
 - 😄 Pronouns: he /him.
-- ⚡ Fun fact: I love playing football
+- ⚡ Fun fact: I love playing football!!
 -->
 
 **Languages and Tools:**  
