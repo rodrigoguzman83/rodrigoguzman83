@@ -1,6 +1,9 @@
 ### Hey 👋🏽, I'm Rodrigo
 
 <br/>
+<a href="mailto:rodrigoluisguzman@gmail.com">
+  <img align="left" alt="Rodrigo Guzman mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/">
   <img align="left" alt="Rodrigo Guzman LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +21,6 @@ Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
 - 🔭 I’m currently working on **GLOBAL HITSS** as **FULL STACK DEVELOPER**.
 - 💻  Working with **JavaScript, Php, Oracle, Docker, Git**.
 - 🌱 I’m currently learning **REACT,VUE, ANGULAR, NODE, MONGO DB**.
-- 📫 How to reach me: rodrigoluisguzman@gmail.com
 - 😄 Pronouns: he /him.
 - ⚡ Fun fact: I love playing football!!
 -->
