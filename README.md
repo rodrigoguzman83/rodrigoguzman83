@@ -20,7 +20,7 @@ Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
  **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on **GLOBAL HITSS** as **FULL STACK DEVELOPER**.
 - 💻  Working with **HTML, CSS, JS, PHP, LUMEN, SLIM, LARAVEL, ORACLE, DOCKER, GIT**.
-- 🌱 I’m currently learning **REACT, VUE, ANGULAR, NODE, MONGO DB**.
+- 🌱 I’m currently learning **REACT, VUE, NODE, MONGO DB**.
 - 😄 Pronouns: he /him.
 - ⚡ Fun fact: I love playing football!!
 -->
