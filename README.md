@@ -15,7 +15,7 @@
 </a>
 <br />
 
-Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
+Hi, I'm Rodrigo Guzman, a Software Engineer from Buenos Aires, Argentina
  
  **Talking about Personal Stuff:**
 - 🔭 I am a **Software Engineer** with 8 years of experience and a strong orientation towards **BACKEND** using PHP and Node languages.
