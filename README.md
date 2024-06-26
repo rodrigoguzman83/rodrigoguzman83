@@ -17,12 +17,12 @@
 
 Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
  
- **Talking about Personal Stuffs:**
-- 🔭 I’m **FULL STACK DEVELOPER**.
-- 💻  Working with **HTML, CSS, JS, PHP, LUMEN, SLIM, LARAVEL, NODE, EXPRESS, ORACLE, DOCKER, GIT**.
-- 🌱 I’m currently learning **REACT, VUE, NODE, MONGO DB, PYTHON**.
+ **Talking about Personal Stuff:**
+- 🔭 I am a **Software Engineer** with 8 years of experience and a strong orientation towards **BACKEND** using PHP and Node languages.
+- 💻  Working with **HTML, CSS, JS, TYPESCRIPT, PHP, LARAVEL, NODE, EXPRESS, NEST, ORACLE, POSTGRESQL, DOCKER, GIT**.
+- 🌱 I’m currently learning **SOFTWARE ARCHITECTURE, GO**.
 - 😄 Pronouns: he /him.
-- ⚡ Fun fact: I love playing football!!
+- ⚡ Fun fact: I love playing football, traveling and eating!!
 -->
 
 **Languages and Tools:**  
@@ -32,7 +32,6 @@ Hi, I'm Rodrigo Guzman, a Full Stack Developer from Buenos Aires, Argentina
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
