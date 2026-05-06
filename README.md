@@ -53,12 +53,6 @@ I am a **Software Engineer** based in Buenos Aires with over **10 years of exper
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api?username=rodrigoguzman83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=rodrigoguzman83&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rodrigoguzman83&theme=tokyonight&no-frame=true&margin-w=15" alt="rodrigoguzman83 trophies" />
   </a>
