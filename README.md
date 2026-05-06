@@ -17,6 +17,7 @@
 ### 🚀 Senior Backend Developer | Software Architect
 I am a **Software Engineer** based in Buenos Aires with over **10 years of experience** building robust and scalable solutions. My primary focus is on the **Node.js** ecosystem and high-performance system architecture.
 
+*   🌍 **Open to Full Remote opportunities and Relocation.**
 *   🔭 **Currently focused on:** Advanced architectures (DDD, Clean Architecture, Hexagonal, CQRS, and Event Sourcing).
 *   🏗️ **Specializing in:** NestJS, TypeScript, and Microservices on AWS.
 *   🤖 **Innovation:** Integrating AI and workflow automation using n8n and Python.
