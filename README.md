@@ -1,39 +1,70 @@
-### Hey 👋🏽, I'm Rodrigo
+# ### Hey 👋🏽, I'm Rodrigo Guzman
 
-<br/>
-<a href="mailto:rodrigoluisguzman@gmail.com" target="_blank">
-  <img align="left" alt="Rodrigo Guzman mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/" target="_blank">
-  <img align="left" alt="Rodrigo Guzman LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=+5491140365765" target="_blank">
-  <img align="left" alt="Rodrigo Guzman whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a href="skype:rodrivagoneta30?call" target="_blank">
-  <img align="left" alt="Rodrigo Guzman skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
-</a>
-<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodrigo-guzman-8b481912/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rodrigoluisguzman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+5491140365765" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-Hi, I'm Rodrigo Guzman, a Software Engineer from Buenos Aires, Argentina
- 
- **Talking about Personal Stuff:**
-- 🔭 I am a **Software Engineer** with 8 years of experience and a strong orientation towards **BACKEND** using PHP and Node languages.
-- 💻  Working with **HTML, CSS, JS, TYPESCRIPT, PHP, LARAVEL, NODE, EXPRESS, NEST, ORACLE, POSTGRESQL, DOCKER, GIT**.
-- 🌱 I’m currently learning **SOFTWARE ARCHITECTURE, GO**.
-- 😄 Pronouns: he /him.
-- ⚡ Fun fact: I love playing football, traveling and eating!!
--->
+---
 
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+### 🚀 Senior Backend Developer | Software Architect
+I am a **Software Engineer** based in Buenos Aires with over **10 years of experience** building robust and scalable solutions. My primary focus is on the **Node.js** ecosystem and high-performance system architecture.
+
+*   🔭 **Currently focused on:** Advanced architectures (DDD, Clean Architecture, Hexagonal, CQRS, and Event Sourcing).
+*   🏗️ **Specializing in:** NestJS, TypeScript, and Microservices on AWS.
+*   🤖 **Innovation:** Integrating AI and workflow automation using n8n and Python.
+*   🌱 **Learning:** Mastering complex Cloud services and AI orchestration.
+*   ⚡ **Fun fact:** Passionate about football (soccer), traveling, and exploring great food.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Automation & AI**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api?username=rodrigoguzman83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=rodrigoguzman83&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rodrigoguzman83&theme=tokyonight&no-frame=true&margin-w=15" alt="rodrigoguzman83 trophies" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Always coding for the next scale."</em>
+</p>
